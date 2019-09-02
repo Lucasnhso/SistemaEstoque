@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2019/08/30 12:25:41.590,=C:\Users\lu12o\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2019/08/30 12:31:05.149,C:\Users\lu12o\Documents\Curso Delphi\ufrmPrincipal.pas=C:\Users\lu12o\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2019/08/30 12:31:05.149,C:\Users\lu12o\Documents\Curso Delphi\ufrmPrincipal.dfm=C:\Users\lu12o\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2019/08/30 12:31:43.996,C:\Users\lu12o\Documents\Curso Delphi\Sistema_Estoque.dproj=C:\Users\lu12o\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>2019/08/30 12:32:14.005,=C:\Users\lu12o\Documents\Curso Delphi\Unit2.pas</Transaction>
-    <Transaction>2019/08/30 12:32:53.005,C:\Users\lu12o\Documents\Curso Delphi\ufrmCadastroProdutos.pas=C:\Users\lu12o\Documents\Curso Delphi\Unit2.pas</Transaction>
-    <Transaction>2019/08/30 12:32:53.005,C:\Users\lu12o\Documents\Curso Delphi\ufrmCadastroProdutos.dfm=C:\Users\lu12o\Documents\Curso Delphi\Unit2.dfm</Transaction>
+	<Transactions>
+    <Transaction>2019/08/30 12:25:41.000.590,=C:\Users\lu12o\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/30 12:31:05.000.149,C:\Users\lu12o\Documents\Curso Delphi\ufrmPrincipal.pas=C:\Users\lu12o\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/30 12:31:05.000.149,C:\Users\lu12o\Documents\Curso Delphi\ufrmPrincipal.dfm=C:\Users\lu12o\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/08/30 12:31:43.000.996,C:\Users\lu12o\Documents\Curso Delphi\Sistema_Estoque.dproj=C:\Users\lu12o\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/08/30 12:32:14.000.005,=C:\Users\lu12o\Documents\Curso Delphi\Unit2.pas</Transaction>
+    <Transaction>2019/08/30 12:32:53.000.005,C:\Users\lu12o\Documents\Curso Delphi\ufrmCadastroProdutos.pas=C:\Users\lu12o\Documents\Curso Delphi\Unit2.pas</Transaction>
+    <Transaction>2019/08/30 12:32:53.000.005,C:\Users\lu12o\Documents\Curso Delphi\ufrmCadastroProdutos.dfm=C:\Users\lu12o\Documents\Curso Delphi\Unit2.dfm</Transaction>
   </Transactions>
 </BorlandProject>

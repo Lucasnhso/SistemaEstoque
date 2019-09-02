@@ -5,7 +5,7 @@ interface
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
   Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus, Vcl.ExtCtrls, Vcl.ComCtrls,
-  Vcl.StdCtrls;
+  Vcl.StdCtrls, Vcl.Imaging.jpeg;
 
 type
   TfrmSistemaEstoque = class(TForm)
@@ -25,6 +25,7 @@ type
     StatusBar1: TStatusBar;
     Timer1: TTimer;
     Image1: TImage;
+    procedure FormCreate(Sender: TObject);
   private
     { Private declarations }
   public
@@ -37,5 +38,14 @@ var
 implementation
 
 {$R *.dfm}
+
+procedure TfrmSistemaEstoque.FormCreate(Sender: TObject);
+  var a, b, c : integer;
+begin
+  a := 10 ;
+  b := 20;
+  c := a + b;
+  showmessage (IntToStr(c));
+end;
 
 end.
