@@ -25,11 +25,10 @@ type
     StatusBar1: TStatusBar;
     Timer1: TTimer;
     Image1: TImage;
-    procedure FormCreate(Sender: TObject);
   private
     { Private declarations }
   public
-    { Public declarations }
+
   end;
 
 var
@@ -39,13 +38,5 @@ implementation
 
 {$R *.dfm}
 
-procedure TfrmSistemaEstoque.FormCreate(Sender: TObject);
-  var a, b, c : integer;
-begin
-  a := 10 ;
-  b := 20;
-  c := a + b;
-  showmessage (IntToStr(c));
-end;
-
 end.
+
