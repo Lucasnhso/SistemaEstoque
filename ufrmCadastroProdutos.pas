@@ -7,7 +7,7 @@ uses
   Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.Menus;
 
 type
-  TfrnCadastroProdutos = class(TForm)
+  TfrmCadastroProdutos = class(TForm)
     Label1: TLabel;
     PopupMenu1: TPopupMenu;
     Edit1: TEdit;
@@ -20,7 +20,7 @@ type
   end;
 
 var
-  frnCadastroProdutos: TfrnCadastroProdutos;
+  frmCadastroProdutos: TfrmCadastroProdutos;
 
 implementation
 

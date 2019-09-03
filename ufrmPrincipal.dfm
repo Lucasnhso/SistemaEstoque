@@ -735,6 +735,7 @@ object frmSistemaEstoque: TfrmSistemaEstoque
       Caption = 'Cadastro'
       object Produtos1: TMenuItem
         Caption = 'Produtos'
+        OnClick = Produtos1Click
       end
       object Usurios1: TMenuItem
         Caption = 'Usu'#225'rios'
@@ -742,6 +743,7 @@ object frmSistemaEstoque: TfrmSistemaEstoque
     end
     object Sair1: TMenuItem
       Caption = 'Sair'
+      OnClick = Sair1Click
     end
   end
   object Timer1: TTimer

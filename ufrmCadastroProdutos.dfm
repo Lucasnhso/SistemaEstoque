@@ -1,4 +1,4 @@
-object frnCadastroProdutos: TfrnCadastroProdutos
+object frmCadastroProdutos: TfrmCadastroProdutos
   Left = 0
   Top = 0
   Caption = 'Cadastro de Produtos'
@@ -11,6 +11,7 @@ object frnCadastroProdutos: TfrnCadastroProdutos
   Font.Name = 'Tahoma'
   Font.Style = []
   OldCreateOrder = False
+  Position = poDesktopCenter
   PixelsPerInch = 96
   TextHeight = 13
   object Label1: TLabel

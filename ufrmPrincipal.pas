@@ -25,6 +25,8 @@ type
     StatusBar1: TStatusBar;
     Timer1: TTimer;
     Image1: TImage;
+    procedure Produtos1Click(Sender: TObject);
+    procedure Sair1Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -37,6 +39,24 @@ var
 implementation
 
 {$R *.dfm}
+
+uses ufrmCadastroProdutos;
+
+procedure TfrmSistemaEstoque.Produtos1Click(Sender: TObject);
+begin
+  //Chamada tela de cadatro de produtos
+  frmCadastroProdutos := TfrmCadastroProdutos.create(nil);
+  try
+    frmCadastroProdutos.Showmodal;
+  finally
+  freeandnil(frmCadastroProdutos);
+  end;
+end;
+
+procedure TfrmSistemaEstoque.Sair1Click(Sender: TObject);
+begin
+  close;
+end;
 
 end.
 

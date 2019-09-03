@@ -107,7 +107,7 @@
             <FormType>dfm</FormType>
         </DCCReference>
         <DCCReference Include="ufrmCadastroProdutos.pas">
-            <Form>frnCadastroProdutos</Form>
+            <Form>frmCadastroProdutos</Form>
             <FormType>dfm</FormType>
         </DCCReference>
         <BuildConfiguration Include="Release">
